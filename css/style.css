@@ -804,7 +804,7 @@ code {
   font-size: 15px;
 }
 #recent-post li {
-  padding: 10px 0 10px 94px;
+  padding: 10px 0 10px 0;
   border-bottom: 1px solid #ddd;
 }
 #recent-post li:before,
