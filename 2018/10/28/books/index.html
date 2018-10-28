@@ -6,17 +6,24 @@
     
 
     
-    <title>Tag: Hexo | jeetkn&#39;s Blog</title>
+    <title>books | jeetkn&#39;s Blog</title>
     
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     
-    <meta property="og:type" content="website">
-<meta property="og:title" content="jeetkn&#39;s Blog">
-<meta property="og:url" content="https://jeetkn.github.io/tags/Hexo/index.html">
+        <meta name="keywords" content="Book">
+    
+    <meta name="description" content="독서 기록">
+<meta name="keywords" content="Book">
+<meta property="og:type" content="article">
+<meta property="og:title" content="books">
+<meta property="og:url" content="https://jeetkn.github.io/2018/10/28/books/index.html">
 <meta property="og:site_name" content="jeetkn&#39;s Blog">
+<meta property="og:description" content="독서 기록">
 <meta property="og:locale" content="en">
+<meta property="og:updated_time" content="2018-10-28T06:41:24.236Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="jeetkn&#39;s Blog">
+<meta name="twitter:title" content="books">
+<meta name="twitter:description" content="독서 기록">
     
 
     
@@ -129,54 +136,125 @@
                         <div class="main-body-header">
     <h1 class="header">
     
-    <i class="icon fa fa-tag"></i>Tag: <em>Hexo</em>
+    <a class="page-title-link" href="/categories/Life/">Life</a><i class="icon fa fa-angle-right"></i><a class="page-title-link" href="/categories/Life/Book/">Book</a>
     </h1>
 </div>
 
                         <div class="main-body-content">
-                            
-
-    
-    
+                            <article id="post-books" class="article article-single article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
         
-        
-        <section class="archives-wrap">
-            <div class="archive-year-wrap">
-                <a href="/archives/2018" class="archive-year"><i class="icon fa fa-calendar-o"></i>2018</a>
-            </div>
-            <div class="archives">
-    
-    
-    
-        <div class="article-row">
-    
-        <article class="article article-summary">
-    <div class="article-summary-inner">
-        
-        <div class="article-meta">
-            <div class="category">
-            <a class="article-category-link" href="/categories/Hexo/">Hexo</a>
-            </div>
-            <div class="date"><time datetime="2018-10-26T12:15:18.000Z" itemprop="datePublished">2018-10-26-Fri</time></div>
-        </div>
-        
+            <header class="article-header">
+                
     
         <h1 class="article-title" itemprop="name">
-        <a href="/2018/10/26/github-page와-Hexo-블로그-만들기/">github page와 Hexo 블로그 만들기</a>
+        books
         </h1>
     
 
-        <p class="article-excerpt">
-            github page를 이용한 블로그 개설Hexo 테마를 블로그에 입히기
-        </p>
+            </header>
+        
+        
+            <div class="article-meta">
+                
+    <div class="article-date">
+        <a href="/2018/10/28/books/" class="article-date">
+            <time datetime="2018-10-28T06:38:41.000Z" itemprop="datePublished">2018-10-28-Sun</time>
+        </a>
+    </div>
+
+		
+
+                
+    <div class="article-tag">
+        <i class="fa fa-tag"></i>
+        <a class="tag-link" href="/tags/Book/">Book</a>
+    </div>
+
+            </div>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+            <h1 id="독서-기록"><a href="#독서-기록" class="headerlink" title="독서 기록"></a>독서 기록</h1>
+        </div>
+        <footer class="article-footer">
+            
+
+
+
+    <a data-url="https://jeetkn.github.io/2018/10/28/books/" data-id="cjnsibqdh00044cjd95990hcf" class="article-share-link"><i class="fa fa-share"></i>Share</a>
+<script>
+    (function ($) {
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+        </footer>
     </div>
 </article>
-    
-        </div>
-    
 
+    <section id="comments">
+    
+        
+    <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
 
-    </div></section>
+    
+    </section>
 
 
 
@@ -222,6 +300,29 @@
             
         </ul>
     </div>
+    
+        
+<nav id="article-nav">
+    
+        <a href="/2018/10/28/movie/" id="article-nav-newer" class="article-nav-link-wrap">
+        <strong class="article-nav-caption">newer</strong>
+        <p class="article-nav-title">
+        
+            movie
+        
+        </p>
+        <i class="icon fa fa-chevron-right" id="icon-chevron-right"></i>
+    </a>
+    
+    
+        <a href="/2018/10/28/TIL/" id="article-nav-older" class="article-nav-link-wrap">
+        <strong class="article-nav-caption">older</strong>
+        <p class="article-nav-title">TIL</p>
+        <i class="icon fa fa-chevron-left" id="icon-chevron-left"></i>
+        </a>
+    
+</nav>
+
     
     <div class="widgets-container">
         
@@ -370,11 +471,13 @@
     var disqus_shortname = 'hexo-theme-hueman';
     
     
+    var disqus_url = 'https://jeetkn.github.io/2018/10/28/books/';
+    
     (function() {
     var dsq = document.createElement('script');
     dsq.type = 'text/javascript';
     dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
     </script>
