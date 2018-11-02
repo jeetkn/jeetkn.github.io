@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>jeetkn&#39;s Blog</title>
+    <link>https://jeetkn.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Mon, 29 Oct 2018 12:07:38 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>imgtest</title>
+      <link>https://jeetkn.github.io/2018/10/28/imgtest/</link>
+      <guid>https://jeetkn.github.io/2018/10/28/imgtest/</guid>
+      <pubDate>Sun, 28 Oct 2018 07:14:22 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;img src=&quot;/2018/10/28/imgtest/example.jpg&quot; title=&quot;This is an example image&quot;&gt;
+
+
+&lt;p data-height=&quot;178&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;YvMzVE
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<img src="/2018/10/28/imgtest/example.jpg" title="This is an example image"><p data-height="178" data-theme-id="0" data-slug-hash="YvMzVE" data-default-tab="js,result" data-user="jeetkn" data-pen-title="vue test" class="codepen">See the Pen <a href="https://codepen.io/jeetkn/pen/YvMzVE/" target="_blank" rel="noopener">vue test</a> by jeetkn (<a href="https://codepen.io/jeetkn" target="_blank" rel="noopener">@jeetkn</a>) on <a href="https://codepen.io" target="_blank" rel="noopener">CodePen</a>.</p><script async src="https://static.codepen.io/assets/embed/ei.js"></script>]]></content:encoded>
+      
+      <comments>https://jeetkn.github.io/2018/10/28/imgtest/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Hexo-test</title>
+      <link>https://jeetkn.github.io/2018/10/28/Hexo-test/</link>
+      <guid>https://jeetkn.github.io/2018/10/28/Hexo-test/</guid>
+      <pubDate>Sun, 28 Oct 2018 06:55:08 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h1 id=&quot;이미지-삽입-테스트&quot;&gt;&lt;a href=&quot;#이미지-삽입-테스트&quot; class=&quot;headerlink&quot; title=&quot;이미지 삽입 테스트&quot;&gt;&lt;/a&gt;이미지 삽입 테스트&lt;/h1&gt;&lt;h2 id=&quot;상대경로&quot;&gt;&lt;a href=&quot;#상대경로&quot; class=&quot;head
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h1 id="이미지-삽입-테스트"><a href="#이미지-삽입-테스트" class="headerlink" title="이미지 삽입 테스트"></a>이미지 삽입 테스트</h1><h2 id="상대경로"><a href="#상대경로" class="headerlink" title="상대경로"></a>상대경로</h2><p><img src="/example.PNG" alt="example"></p><h2 id="절대경로"><a href="#절대경로" class="headerlink" title="절대경로"></a>절대경로</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% asset_img example.jpg This is an example image %&#125;</span><br></pre></td></tr></table></figure><p>과연…</p>]]></content:encoded>
+      
+      <comments>https://jeetkn.github.io/2018/10/28/Hexo-test/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>movie</title>
+      <link>https://jeetkn.github.io/2018/10/28/movie/</link>
+      <guid>https://jeetkn.github.io/2018/10/28/movie/</guid>
+      <pubDate>Sun, 28 Oct 2018 06:38:57 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h1 id=&quot;영화-기록&quot;&gt;&lt;a href=&quot;#영화-기록&quot; class=&quot;headerlink&quot; title=&quot;영화 기록&quot;&gt;&lt;/a&gt;영화 기록&lt;/h1&gt;
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h1 id="영화-기록"><a href="#영화-기록" class="headerlink" title="영화 기록"></a>영화 기록</h1>]]></content:encoded>
+      
+      <comments>https://jeetkn.github.io/2018/10/28/movie/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://jeetkn.github.io/2018/10/28/books/</link>
+      <guid>https://jeetkn.github.io/2018/10/28/books/</guid>
+      <pubDate>Sun, 28 Oct 2018 06:38:41 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h1 id=&quot;독서-기록&quot;&gt;&lt;a href=&quot;#독서-기록&quot; class=&quot;headerlink&quot; title=&quot;독서 기록&quot;&gt;&lt;/a&gt;독서 기록&lt;/h1&gt;
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h1 id="독서-기록"><a href="#독서-기록" class="headerlink" title="독서 기록"></a>독서 기록</h1>]]></content:encoded>
+      
+      <comments>https://jeetkn.github.io/2018/10/28/books/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>TIL</title>
+      <link>https://jeetkn.github.io/2018/10/28/TIL/</link>
+      <guid>https://jeetkn.github.io/2018/10/28/TIL/</guid>
+      <pubDate>Sun, 28 Oct 2018 06:23:35 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h1 id=&quot;Today-I-learned&quot;&gt;&lt;a href=&quot;#Today-I-learned&quot; class=&quot;headerlink&quot; title=&quot;Today I learned&quot;&gt;&lt;/a&gt;Today I learned&lt;/h1&gt;
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h1 id="Today-I-learned"><a href="#Today-I-learned" class="headerlink" title="Today I learned"></a>Today I learned</h1>]]></content:encoded>
+      
+      <comments>https://jeetkn.github.io/2018/10/28/TIL/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>github page와 Hexo 블로그 만들기</title>
+      <link>https://jeetkn.github.io/2018/10/26/github-page%EC%99%80-Hexo-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</link>
+      <guid>https://jeetkn.github.io/2018/10/26/github-page%EC%99%80-Hexo-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</guid>
+      <pubDate>Fri, 26 Oct 2018 12:15:18 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h1 id=&quot;github-page를-이용한-블로그-개설&quot;&gt;&lt;a href=&quot;#github-page를-이용한-블로그-개설&quot; class=&quot;headerlink&quot; title=&quot;github page를 이용한 블로그 개설&quot;&gt;&lt;/a&gt;github page를 이용한 
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h1 id="github-page를-이용한-블로그-개설"><a href="#github-page를-이용한-블로그-개설" class="headerlink" title="github page를 이용한 블로그 개설"></a>github page를 이용한 블로그 개설</h1><h1 id="Hexo-테마를-블로그에-입히기"><a href="#Hexo-테마를-블로그에-입히기" class="headerlink" title="Hexo 테마를 블로그에 입히기"></a>Hexo 테마를 블로그에 입히기</h1>]]></content:encoded>
+      
+      <comments>https://jeetkn.github.io/2018/10/26/github-page%EC%99%80-Hexo-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://jeetkn.github.io/2018/10/26/Programming/</link>
+      <guid>https://jeetkn.github.io/2018/10/26/Programming/</guid>
+      <pubDate>Fri, 26 Oct 2018 12:12:56 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h1 id=&quot;알고리즘&quot;&gt;&lt;a href=&quot;#알고리즘&quot; class=&quot;headerlink&quot; title=&quot;알고리즘&quot;&gt;&lt;/a&gt;알고리즘&lt;/h1&gt;&lt;p&gt;백준 알고리즘의 문제를 풀이할 것&lt;/p&gt;
+
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h1 id="알고리즘"><a href="#알고리즘" class="headerlink" title="알고리즘"></a>알고리즘</h1><p>백준 알고리즘의 문제를 풀이할 것</p>]]></content:encoded>
+      
+      <comments>https://jeetkn.github.io/2018/10/26/Programming/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Coffee</title>
+      <link>https://jeetkn.github.io/2018/10/26/Coffee/</link>
+      <guid>https://jeetkn.github.io/2018/10/26/Coffee/</guid>
+      <pubDate>Fri, 26 Oct 2018 11:56:26 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      <comments>https://jeetkn.github.io/2018/10/26/Coffee/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Diary</title>
+      <link>https://jeetkn.github.io/2018/10/25/10%EC%9B%9425%EC%9D%BC/</link>
+      <guid>https://jeetkn.github.io/2018/10/25/10%EC%9B%9425%EC%9D%BC/</guid>
+      <pubDate>Thu, 25 Oct 2018 12:47:22 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h1 id=&quot;10월-25일&quot;&gt;&lt;a href=&quot;#10월-25일&quot; class=&quot;headerlink&quot; title=&quot;10월 25일&quot;&gt;&lt;/a&gt;10월 25일&lt;/h1&gt;
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h1 id="10월-25일"><a href="#10월-25일" class="headerlink" title="10월 25일"></a>10월 25일</h1>]]></content:encoded>
+      
+      <comments>https://jeetkn.github.io/2018/10/25/10%EC%9B%9425%EC%9D%BC/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://jeetkn.github.io/2018/10/25/hello-world/</link>
+      <guid>https://jeetkn.github.io/2018/10/25/hello-world/</guid>
+      <pubDate>Thu, 25 Oct 2018 10:51:10 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content:encoded>
+      
+      <comments>https://jeetkn.github.io/2018/10/25/hello-world/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
