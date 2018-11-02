@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jeetkn.github.io/sitemap.xml
