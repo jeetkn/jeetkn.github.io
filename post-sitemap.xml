@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://jeetkn.github.io/2018/10/26/Coffee/</loc>
+        <lastmod>2018-11-04T01:29:59.334Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://jeetkn.github.io/2018/10/28/imgtest/</loc>
         <lastmod>2018-10-29T12:07:38.921Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -66,14 +74,6 @@
     <url>
         <loc>https://jeetkn.github.io/2018/10/26/Programming/</loc>
         <lastmod>2018-10-26T12:14:00.191Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://jeetkn.github.io/2018/10/26/Coffee/</loc>
-        <lastmod>2018-10-26T11:57:11.542Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
