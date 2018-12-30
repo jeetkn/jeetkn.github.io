@@ -31,13 +31,6 @@
     </url>
 
     <url>
-        <loc>https://jeetkn.github.io/tags/Hexo/</loc>
-        <lastmod>2018-10-29T12:07:38.921Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jeetkn.github.io/tags/%EC%BB%A4%ED%94%BC/</loc>
         <lastmod>2018-11-04T01:29:59.334Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -47,6 +40,13 @@
     <url>
         <loc>https://jeetkn.github.io/tags/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD/</loc>
         <lastmod>2018-11-04T01:29:59.334Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jeetkn.github.io/tags/Hexo/</loc>
+        <lastmod>2018-12-30T06:14:41.468Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

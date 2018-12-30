@@ -8,8 +8,27 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Mon, 29 Oct 2018 12:07:38 GMT</pubDate>
+    <pubDate>Sun, 30 Dec 2018 06:14:41 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>HEXO 재시작 테스트</title>
+      <link>https://jeetkn.github.io/2018/12/30/HEXO-%EC%9E%AC%EC%8B%9C%EC%9E%91-%ED%85%8C%EC%8A%A4%ED%8A%B8/</link>
+      <guid>https://jeetkn.github.io/2018/12/30/HEXO-%EC%9E%AC%EC%8B%9C%EC%9E%91-%ED%85%8C%EC%8A%A4%ED%8A%B8/</guid>
+      <pubDate>Sun, 30 Dec 2018 05:47:56 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h3 id=&quot;hexo-재시작-테스트-입니다&quot;&gt;&lt;a href=&quot;#hexo-재시작-테스트-입니다&quot; class=&quot;headerlink&quot; title=&quot;hexo 재시작 테스트 입니다.&quot;&gt;&lt;/a&gt;hexo 재시작 테스트 입니다.&lt;/h3&gt;
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<h3 id="hexo-재시작-테스트-입니다"><a href="#hexo-재시작-테스트-입니다" class="headerlink" title="hexo 재시작 테스트 입니다."></a>hexo 재시작 테스트 입니다.</h3>]]></content:encoded>
+      
+      <comments>https://jeetkn.github.io/2018/12/30/HEXO-%EC%9E%AC%EC%8B%9C%EC%9E%91-%ED%85%8C%EC%8A%A4%ED%8A%B8/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>imgtest</title>
